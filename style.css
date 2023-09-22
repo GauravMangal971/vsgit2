@@ -6,4 +6,7 @@ p{
 h2{ background-color: green;
     color: white;
 
+h1{
+    background-color: aqua;
+    color: black;
 }
